@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People", "People\People.csproj", "{DB120869-4066-44EF-9CEE-4830F6680F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB120869-4066-44EF-9CEE-4830F6680F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB120869-4066-44EF-9CEE-4830F6680F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB120869-4066-44EF-9CEE-4830F6680F0F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DB120869-4066-44EF-9CEE-4830F6680F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB120869-4066-44EF-9CEE-4830F6680F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB120869-4066-44EF-9CEE-4830F6680F0F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120B58FD-2007-4831-A0BE-7970331F8944}
+	EndGlobalSection
+EndGlobal
